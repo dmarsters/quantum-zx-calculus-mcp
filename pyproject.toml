@@ -14,7 +14,7 @@ authors = [
 license = {text = "MIT"}
 
 dependencies = [
-    "fastmcp>=0.3.0",
+    "fastmcp>=0.3.0", "numpy",
 ]
 
 [project.optional-dependencies]
